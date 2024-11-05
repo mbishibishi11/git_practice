@@ -1,0 +1,3 @@
+git remote -v
+origin	https://github.com/mbishibishi11/git_practice.git (fetch)
+origin	https://github.com/mbishibishi11/git_practice.git (push)
