@@ -1,2 +1,3 @@
 Hello World!
-Greetings from the computer.
+Some very important text
+Greetings from both my computer and Github
