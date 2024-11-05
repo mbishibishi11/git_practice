@@ -1,2 +1,2 @@
 Hello World!
-Some very important text
+Greetings from the computer.
